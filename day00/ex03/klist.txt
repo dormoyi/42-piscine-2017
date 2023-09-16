@@ -1,0 +1,5 @@
+Credentials cache: API:E5B7CC43-1BE3-44FD-8459-BD9224851C04
+        Principal: idormoy@42.FR
+
+  Issued                Expires               Principal
+Jul  2 14:10:30 2018  Jul  9 14:09:30 2018  krbtgt/42.FR@42.FR
